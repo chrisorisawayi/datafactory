@@ -1,0 +1,11 @@
+{
+	"name": "pochaxstorageprod",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"serviceEndpoint": "https://pochaxstorageprod.blob.core.windows.net",
+			"accountKind": "StorageV2"
+		}
+	}
+}
