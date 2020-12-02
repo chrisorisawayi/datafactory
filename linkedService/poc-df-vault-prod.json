@@ -1,5 +1,5 @@
 {
-	"name": "akv",
+	"name": "poc-df-vault-prod",
 	"properties": {
 		"annotations": [],
 		"type": "AzureKeyVault",
